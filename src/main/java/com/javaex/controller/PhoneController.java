@@ -9,7 +9,7 @@ import com.javaex.dao.PhoneDao;
 import com.javaex.vo.PersonVo;
 
 @Controller
-//@RequestMapping(value="/guest")
+//@RequestMapping(value="/guest") -->공통주소
 public class PhoneController {
 	
 	//필드
